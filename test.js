@@ -1,3 +1,3 @@
-function print() {
+export function print() {
     console.log("Harro!");
 }
